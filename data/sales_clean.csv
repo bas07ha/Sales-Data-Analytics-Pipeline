@@ -1,0 +1,9 @@
+order_id;customer;product;quantity;price;total_revenue;date
+1;Alice;laptop;1;1200.0;1200.0;2026-01-30
+2;Bob ;phone;2;600.0;1200.0;2026-01-30
+3;Charlie;tablet;1;350.0;350.0;2026-01-31
+4;Diana;headphones;3;75.0;225.0;2026-01-31
+5;Eve;laptop;2;1200.0;2400.0;2026-02-01
+6;Basma Halil;laptop;2;118000.0;236000.0;2026-02-02
+10;Sienna;book;3;900.0;2700.0;2026-02-13
+12;Ahmed;pen;2;20.0;40.0;2026-01-07

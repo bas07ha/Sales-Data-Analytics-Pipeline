@@ -1,0 +1,13 @@
+order_id;customer;product;quantity;price;date
+1;Alice;laptop;1;1200;30/01/2026
+2;Bob ;phone;2;600;30/01/2026
+3;Charlie;tablet;1;350;31/01/2026
+4;Diana;headphones;3;75;31/01/2026
+5;Eve;laptop;2;1200;01/02/2026
+6;Basma Halil;laptop;2;118000;02/02/2026
+7;Douaa;centella travel kit;1;-5000;02/02/2026
+8;Amina;sac;1;0;30/10/2025
+9;;phone;1;600;10/02/2024
+10;Sienna;book;3;900;13/02/2026
+11;Bob ;headphones;1;-75;13/02/2026
+12;Ahmed;pen;2;20;07/01/2026
