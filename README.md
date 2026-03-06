@@ -106,3 +106,5 @@ log error reasons
 This project demonstrates foundational data engineering skills required
 for real-world analytics pipelines and qualifies for junior data engineer
 interviews.
+# Sales-Data-Analytics-Pipeline
+End-to-end sales data analytics pipeline: ingestion, data validation, cleaning, and storage in PostgreSQL for analytics-ready datasets.
